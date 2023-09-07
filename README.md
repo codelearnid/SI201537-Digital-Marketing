@@ -1,4 +1,4 @@
-# Matakuliha SI201537-Digital-Marketing
+# Matakuliah SI201537-Digital-Marketing
 
 Ini merupakan materi terkait Matakuliah Digital Marketing atau Pemasaran Digital
 Dosen Pengampu :<br>
