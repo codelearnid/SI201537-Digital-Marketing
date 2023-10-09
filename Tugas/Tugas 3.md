@@ -10,3 +10,6 @@ Dosen pengampu : **Arif Wicaksono Septyanto, S.Kom., M.Kom** <br>
    - Instagram Ads: Iklan berupa gambar atau video yang muncul di platform Instagram.
    - Twitter Ads: Iklan yang tampil di platform Twitter.
    - LinkedIn Ads: Iklan yang ditampilkan di LinkedIn, khususnya untuk keperluan bisnis dan rekrutmen.
+
+
+Contoh implemenetasi : [Beriklan di Facebook dan Instagram Ads](https://youtu.be/St-N9Gyms5E?si=CIRO2C6rO1ZHa54P)
