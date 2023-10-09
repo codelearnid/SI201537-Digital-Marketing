@@ -12,4 +12,4 @@ Dosen pengampu : **Arif Wicaksono Septyanto, S.Kom., M.Kom** <br>
    - LinkedIn Ads: Iklan yang ditampilkan di LinkedIn, khususnya untuk keperluan bisnis dan rekrutmen.
 
 
-Contoh implemenetasi : [Beriklan di Facebook dan Instagram Ads](https://youtu.be/St-N9Gyms5E?si=CIRO2C6rO1ZHa54P)
+Contoh implementasi : [Beriklan di Facebook dan Instagram Ads](https://youtu.be/St-N9Gyms5E?si=CIRO2C6rO1ZHa54P)
